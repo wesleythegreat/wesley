@@ -101,17 +101,23 @@
 </div>
 </div>
 </div>
-</div>  
+</div>
+
         <section>
             <!---->
             <div class="container"> <!-- class indicator na meron siya css file-->
+                <br>
+                <br>
+                <br> 
+                <br>
+                <br> 
                 <h1 class="heading">Pc Specs</h1>
                 <div class="card-wrapper">
                   <!--1st card-->
                    <div class="card">
                         <img src="mousebg.png" alt="card background" class="card-img">
                         <img src="mousebg.png" alt="profile image" class="profile-img">
-                        <h1>Computer mouse</h1>
+                        <h1>Computer Mouse</h1>
                         <p class="charPower">Pure gaming mouse</p>
                         <p class="about">
                             Prepare for unmatched performance and experience ultimate gaming mouse.
